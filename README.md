@@ -1,6 +1,6 @@
 ## Hey there, I’m Daniel Hiller
 
-I'm a software engineer greybeard with a [history](https://dhiller.dev/history.html) of more than 20 years of transforming ☕ into useful stuff for others.
+I'm a software engineer greybeard with a [history](https://dhiller.dev/history.html) of 20+ years transforming ☕ into useful stuff for others.
 
 I’m currently part of the [KubeVirt](https://kubevirt.io) community, where I maintain, improve and automate CI using Prow on Kubernetes and Golang for various things.
 
