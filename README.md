@@ -1,12 +1,13 @@
 ## Hey there, I’m Daniel Hiller
 
-I'm a software engineer greybeard with a history of more than 20 years of transforming ☕ into useful stuff for others.
+I'm a software engineer greybeard with a [history](https://dhiller.dev/history.html) of more than 20 years of transforming ☕ into useful stuff for others.
 
 I’m currently part of the [KubeVirt](https://kubevirt.io) community, where I maintain, improve and automate CI using Prow on Kubernetes and Golang for various things.
 
+Previously I’ve worked with Java, Jenkins, AWS, RDBMS and other things.
+
 Sometimes I also talk about the things I do or did - you can find the talks I gave [here](https://dhiller.dev/presentation.html).
 
-Previously I’ve worked with Java, Jenkins, AWS, RDBMS and other things, see my [history](https://dhiller.dev/history.html) for more.
 
 <!--
 **dhiller/dhiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
