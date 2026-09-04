@@ -1,6 +1,6 @@
 ## Hey there, I’m Daniel Hiller
 
-I'm a software engineer with a [history](https://dhiller.dev/history.html) of 20+ years.
+I'm a software engineer for [quite a while](https://dhiller.dev/history.html) now.
 
 I’m part of the [KubeVirt](https://kubevirt.io) community, where I maintain, improve and automate CI using [Prow](https://docs.prow.k8s.io/docs/overview/) on [Kubernetes](https://www.kubernetes.io/) and [Golang](https://go.dev/) for various things.
 
